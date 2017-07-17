@@ -1,0 +1,22 @@
+body {
+	background: #ccd;
+}
+
+.intro {
+	text-align: center;
+}
+
+#prompt {
+	font-size: 1.2em;
+}
+
+.intro button {
+	text-align: center;
+	font-size: 1.3em;
+}
+
+#inputs {
+	text-align: center;
+}
+
+/* style cause it looked bad and it said to look "professional"*/
